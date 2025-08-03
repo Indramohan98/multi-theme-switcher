@@ -1,3 +1,6 @@
+You can directly checkout the deployed project on vercel
+url = https://multi-theme-switcher-f9jhi61w7-indramohan-lals-projects.vercel.app/ 
+
 🛠️ Project Setup Instructions
 Follow these steps to run the project locally:
 
@@ -41,3 +44,4 @@ React Toastify for toast notifications
 🎞️ Animations on theme change and cart interactions
 
 🌙 Animated Sun/Moon toggle switch
+
