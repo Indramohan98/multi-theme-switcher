@@ -3,33 +3,19 @@ Follow these steps to run the project locally:
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Indramohan98/multi-theme-switcher.git
 cd your-repo-name
 
 2. Install Dependencies
-
-npm install
-# or
-yarn install
+npm install or yarn install
 
 3. Start the Development Server
-
-npm start
-# or
-yarn dev
+npm start or yarn dev
 Visit http://localhost:3000 in your browser.
 
-🔧 Project Structure
-
-📦 src/         # Images and static files
-├── components/       # Reusable UI components (Header, ThemeToggle, etc.)
-├── pages/            # Route-level pages (Home, About, Cart, Contact)
-├── store/            # Redux store and cart slice
-├── themes/           # Theme definitions
-├── context/          # Theme Context setup
-├── App.tsx           # Main app component with routes 
 
 🧰 Tech Stack
+
 React + TypeScript
 
 Redux Toolkit for cart state management
